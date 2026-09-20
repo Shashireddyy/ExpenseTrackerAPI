@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpenseApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52f730c809eb230789d0c78717dee7f0a097a7e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e08471bd5e9dc91b224ef38db8b01cef405fb0cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpenseApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpenseApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
